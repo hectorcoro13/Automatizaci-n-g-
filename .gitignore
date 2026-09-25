@@ -3,3 +3,8 @@ token.json
 .env
 __pycache__/
 *.pyc.env
+
+backups/
+processed_gmail_ids.json
+google-cloud-cli-*.tar.gz
+.DS_Store
